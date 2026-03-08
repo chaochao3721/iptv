@@ -1,0 +1,33 @@
+# 这是订阅源列表，每行一个订阅地址
+# This is a list of subscription sources, with one subscription address per line
+https://myernestlu.github.io/zby.txt
+https://raw.githubusercontent.com/zbefine/iptv/main/iptv.m3u
+https://raw.githubusercontent.com/vamoschuck/TV/main/M3U
+https://testingcf.jsdelivr.net/gh/YueChan/Live@main/IPTV.m3u
+https://raw.githubusercontent.com/BigBigGrandG/IPTV-URL/release/Gather.m3u
+https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
+https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
+https://tv.zqdl.cn/tv/tv.txt
+https://zb.zqdl.cn/tv.txt
+http://iptv.zqdl.org/mgtv.m3u
+https://raw.githubusercontent.com/mytv-android/iptv-api/refs/heads/master/output/result.m3u
+http://47.120.41.246:8899/zb.txt
+https://bit.ly/iptv-aptv
+https://tool.zqdl.cn/ip.txt
+https://gitee.com/jin-xueling/cinematography/raw/master/json.txt
+https://gitee.com/mytv-android/iptv-api/raw/master/output/result.m3u
+https://live.zbds.org/tv/iptv4.txt
+https://mursor.ottiptv.cc/iptv.m3u
+https://raw.githubusercontent.com/Mursor/LIVE/refs/heads/main/iptv.m3u
+https://smt.520761.xyz/m3u/merged_judy.m3u
+https://aktv.space/live.m3u
+https://raw.githubusercontent.com/rad168/iptv/main/live.m3u
+https://raw.githubusercontent.com/qist/tvbox/master/tvboxtv.txt
+https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
+https://tv-1.iill.top/m3u/Gather
+http://8.138.7.223/51.php
+
+
+[WHITELIST]
+# 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
+# This is the whitelist for subscription sources. Subscription sources in the whitelist will not participate in speed testing and will always be retained at the front of the results.
