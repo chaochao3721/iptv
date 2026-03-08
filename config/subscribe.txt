@@ -1,6 +1,9 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
-
+https://myernestlu.github.io/zby.txt
+https://raw.githubusercontent.com/zbefine/iptv/main/iptv.m3u
+https://raw.githubusercontent.com/vamoschuck/TV/main/M3U
+https://testingcf.jsdelivr.net/gh/YueChan/Live@main/IPTV.m3u
 
 
 
